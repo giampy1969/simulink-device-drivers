@@ -5,10 +5,15 @@ Developing Simulink&reg; Device Driver Blocks: Step-By-Step Guide and Examples
 
 This package contains a guide that explains, in a step-by-step fashion, how to develop device driver blocks (blocks that perform target-specific functions when executed on a target platform).
 Example drivers for:
--) Arduino digital output
--) Arduino digital input
--) Arduino analog output
--) Arduino encoder read
+
+-) Arduino digital output,
+
+-) Arduino digital input,
+
+-) Arduino analog output,
+
+-) Arduino encoder read,
+
 are included.
 
 While the examples are built using the Arduino&reg; as the hardware platform (specifically relying on the Simulink Support Package for Arduino), the method applies to any other supported target.
