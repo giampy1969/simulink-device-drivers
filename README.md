@@ -7,11 +7,8 @@ This package contains a guide that explains, in a step-by-step fashion, how to d
 Example drivers for:
 
 -) Arduino digital output,
-
 -) Arduino digital input,
-
 -) Arduino analog output,
-
 -) Arduino encoder read,
 
 are included.
